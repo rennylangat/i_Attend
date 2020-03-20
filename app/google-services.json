@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "843113262883",
+    "firebase_url": "https://students-class-attendance.firebaseio.com",
+    "project_id": "students-class-attendance",
+    "storage_bucket": "students-class-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843113262883:android:28e69756db297e27",
+        "android_client_info": {
+          "package_name": "com.attend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843113262883-gf90onb8lrh9jr0uic0tt9iid9068f74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaIV8nJdxd9vt2qHQTVhVL5BkTMJmKQWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843113262883-gf90onb8lrh9jr0uic0tt9iid9068f74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843113262883:android:441763997ecc9fd2",
+        "android_client_info": {
+          "package_name": "ke.ac.tuk.scit.ctit.i_attend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843113262883-gf90onb8lrh9jr0uic0tt9iid9068f74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaIV8nJdxd9vt2qHQTVhVL5BkTMJmKQWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843113262883-gf90onb8lrh9jr0uic0tt9iid9068f74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
